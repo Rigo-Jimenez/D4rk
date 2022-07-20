@@ -1,1 +1,1 @@
-webhook: php webhook.php
+web: vendor/bin/heroku-php-apache2
